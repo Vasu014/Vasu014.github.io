@@ -25,4 +25,7 @@ collections:
   posts:
     output: true
     permalink: /posts/:path  
+  poetry:
+    output: true
+    permalink: /poetry/:path  
 
