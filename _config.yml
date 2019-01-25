@@ -22,5 +22,7 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  
+  posts:
+    output: true
+    permalink: /posts/:path  
 
