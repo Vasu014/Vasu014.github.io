@@ -1,7 +1,7 @@
 # Site settings
 title: the dabbling developer
 email: voodoorapter014@gmail.com
-description: "A blog about software, well mostly.."
+description: "A blog about software development, well mostly.."
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
