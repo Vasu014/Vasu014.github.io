@@ -1,5 +1,5 @@
 # Site settings
-title: my Dev space!
+title: the dabbling developer
 email: voodoorapter014@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
@@ -7,7 +7,8 @@ baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
 github_username:  "Vasu014"
-
+linkedin_username: vasu-bhardwaj-2a4b6080
+repository: Vasu014/Vasu014.github.io
 # Build settings
 markdown: kramdown
 
@@ -20,12 +21,9 @@ paginate_path: "/blog/page:num/"
 
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /portfolio/:path/
   posts:
     output: true
     permalink: /posts/:path  
-  poetry:
-    output: true
-    permalink: /poetry/:path  
-
+  
