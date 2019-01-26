@@ -2,7 +2,7 @@
 title: the dabbling developer
 email: voodoorapter014@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+A blog about software, well mostly..
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
