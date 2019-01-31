@@ -7,9 +7,9 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I am Vasu Bhardwaj, currently working as a software developer at Citigroup.
+I am Vasu Bhardwaj, currently working as a software developer at Citigroup. 
 
-I completed my B.Tech in Software Engineering from Delhi Technological University. Being a caffeine addict, I love to explore the coffee shops everywhere I go. 
+I completed my B.Tech in Software Engineering from Delhi Technological University. I thrive on caffeine and love to explore the coffee shops everywhere I go. 
 <br/>
 <br/>
 This blog is a means for me to keep track of various things I'm learning on my journey in the tech world.
