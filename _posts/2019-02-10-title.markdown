@@ -1,0 +1,19 @@
+---
+layout: post
+title: a classifier for deadpools and spidermen
+date: 2019-02-10 16:20:16
+published: true
+description: a first attempt at deep learning
+---
+
+<em>The supporting jupyter notebook for the same can be viewed [here](https://github.com/Vasu014/Deadpool-Vs-Spiderman/blob/master/Deadpool%20Vs%20Spiderman%20Classifier.ipynb)</em>
+
+
+I have started doing Jeremy Howard's Deep Learning for Coders. The basic premise of the course is to get the student to build their first deep learning model as fast as possible, and only then start digging in to the details.  
+
+So, applying what I learned in the first lecture, I built an image classifier of my own. 
+The classifier determines if an image is that of Deadpool or Spiderman.
+I used the google-images-download utility, which can be easily installed using pip, to download images of Deadpool and Spiderman, which would serve as my training and validation sets.  
+
+(Note: If viewing this on mobile, view the GitHub repo in Desktop mode, otherwise the notebook won't be rendered)
+
