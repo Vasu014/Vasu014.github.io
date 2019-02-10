@@ -15,5 +15,9 @@ So, applying what I learned in the first lecture, I built an image classifier of
 The classifier determines if an image is that of Deadpool or Spiderman.
 I used the google-images-download utility, which can be easily installed using pip, to download images of Deadpool and Spiderman, which would serve as my training and validation sets.  
 
+I used a pre-trained model, the Resnet34 model as the basis and trained it further on the downloaded images.  
+
+Within a few epochs, the model reached an accuracy of ~93%, which is pretty amazing. 
+
 (Note: If viewing this on mobile, view the GitHub repo in Desktop mode, otherwise the notebook won't be rendered)
 
