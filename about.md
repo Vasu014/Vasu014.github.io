@@ -20,10 +20,9 @@ This blog is a means for me to keep track of various things I'm learning on my j
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="mailto:voodoorapter014@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/{{ site.github_username }}" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
