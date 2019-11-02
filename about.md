@@ -1,18 +1,21 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-I am Vasu Bhardwaj, currently working as a software developer at Citigroup. 
-
+I am Vasu Bhardwaj. I’m an experienced product developer. I am comfortable with working on the backend, the frontend and DevOps, depending on the task at hand, with some experience in managing small teams.
+<br/>
 I completed my B.Tech in Software Engineering from Delhi Technological University. I thrive on caffeine and love to explore the coffee shops everywhere I go. 
 <br/>
 <br/>
 This blog is a means for me to keep track of various things I'm learning on my journey in the tech world.
+<br/>
+<br/> 
+Here is my <a href="https://drive.google.com/open?id=1yscOTGdXb4MVHUzZp7qMkWAUn3ui6z9e" target="_blank">resume</a>.
 <br/>
 <br/>
 
